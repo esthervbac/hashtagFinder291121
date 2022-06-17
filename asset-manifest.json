@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/hashtagFinder291121/static/css/main.cf42dc08.chunk.css",
+    "main.js": "/hashtagFinder291121/static/js/main.e8692014.chunk.js",
+    "main.js.map": "/hashtagFinder291121/static/js/main.e8692014.chunk.js.map",
+    "runtime-main.js": "/hashtagFinder291121/static/js/runtime-main.a65fd865.js",
+    "runtime-main.js.map": "/hashtagFinder291121/static/js/runtime-main.a65fd865.js.map",
+    "static/js/2.11a81ebd.chunk.js": "/hashtagFinder291121/static/js/2.11a81ebd.chunk.js",
+    "static/js/2.11a81ebd.chunk.js.map": "/hashtagFinder291121/static/js/2.11a81ebd.chunk.js.map",
+    "index.html": "/hashtagFinder291121/index.html",
+    "static/css/main.cf42dc08.chunk.css.map": "/hashtagFinder291121/static/css/main.cf42dc08.chunk.css.map",
+    "static/js/2.11a81ebd.chunk.js.LICENSE.txt": "/hashtagFinder291121/static/js/2.11a81ebd.chunk.js.LICENSE.txt",
+    "static/media/List-results.css": "/hashtagFinder291121/static/media/about-hero-bg.6e1da22b.jpg",
+    "static/media/about-ilustration.4ee16484.svg": "/hashtagFinder291121/static/media/about-ilustration.4ee16484.svg",
+    "static/media/Login.css": "/hashtagFinder291121/static/media/mobile-hero-bg.947a315f.jpg",
+    "static/media/icon-awesome-linkedin.80d2dd9d.svg": "/hashtagFinder291121/static/media/icon-awesome-linkedin.80d2dd9d.svg",
+    "static/media/icon-envelope.1cf89e54.svg": "/hashtagFinder291121/static/media/icon-envelope.1cf89e54.svg",
+    "static/media/icon-github.ff2f8d18.svg": "/hashtagFinder291121/static/media/icon-github.ff2f8d18.svg",
+    "static/media/icon-home.103e9249.svg": "/hashtagFinder291121/static/media/icon-home.103e9249.svg",
+    "static/media/icon-info-circle.a0585406.svg": "/hashtagFinder291121/static/media/icon-info-circle.a0585406.svg",
+    "static/media/icon-power-off.82d053be.svg": "/hashtagFinder291121/static/media/icon-power-off.82d053be.svg",
+    "static/media/icon-search.71835400.svg": "/hashtagFinder291121/static/media/icon-search.71835400.svg",
+    "static/media/icon-user-alt.79fa24ac.svg": "/hashtagFinder291121/static/media/icon-user-alt.79fa24ac.svg",
+    "static/media/logo.49a02989.svg": "/hashtagFinder291121/static/media/logo.49a02989.svg",
+    "static/media/noimage.86e8f937.png": "/hashtagFinder291121/static/media/noimage.86e8f937.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a65fd865.js",
+    "static/js/2.11a81ebd.chunk.js",
+    "static/css/main.cf42dc08.chunk.css",
+    "static/js/main.e8692014.chunk.js"
+  ]
+}
