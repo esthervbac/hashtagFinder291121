@@ -17,6 +17,8 @@ Há também uma página restrita para acompanhar as buscas realizadas.
 
 Projeto concluído pela equipe 291121 com os membros:
 
-[Esther Valentim Bacelar](https://github.com/esthervbac)
-[Joane Alves Ribeiro](https://github.com/joanealves)
-[Lorenzo Costa](https://github.com/lorenzogcosta)
+# [Esther Valentim Bacelar](https://github.com/esthervbac)
+
+# [Joane Alves Ribeiro](https://github.com/joanealves)
+
+# [Lorenzo Costa](https://github.com/lorenzogcosta)
