@@ -15,20 +15,21 @@ body {
 .resultsHero {
     display: flex;
     background-image: url('../../../assets/about-hero-bg.jpg');
-    height: 90vh;
+    height: 100%;
     width: 100vw;
     background-repeat: no-repeat;
-    background-size: 100% 100%; 
+    background-size: cover; 
 }
 
 .resultsList {
-    color: aqua;
+    color: #72EFDB;
     display: flex;
     align-self: center;
-    margin-top: 10vh;
+    margin-top: 20vh;
+    margin-bottom: 10vh;
     margin-left: auto;
     margin-right: auto;
-    border-radius: 10px;
+    border-radius: 14px;
     width: 330px;
     height: 70%;
     display: flex;
@@ -40,7 +41,8 @@ body {
 /* ----------RESULTS LIST TABLE---------------- */
 
 .resultsList h2 {
-    font-size: xx-large;    
+    font-size: xx-large; 
+    margin-bottom: 4vh;
 }
 
 .resultsList table {
@@ -48,17 +50,52 @@ body {
     text-align: left;
     border-collapse: collapse;
     background-color: rgba(36, 66, 148, 0.3);
-    border-radius: 14px 14px 14px 14px;
 }
 
 .resultsList th {
-    height: 40px;
-    background-color: rgba(0, 12, 46, 0.6);
+    height: 60px;
+    background-color: #000c63;
+    opacity: 0.78;
     backdrop-filter: blur(30px);
+    padding-top: 5vh;
+    padding-bottom: 2vh;
 }
 
 .tableLeft {
-    padding-left: 10px;
+    padding-left: 7vw;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.tableHeaderLeft {
+    padding-left: 7vw;
+    border-radius: 14px 0px 0px 0px;
+}
+
+.tableHeaderMiddle {
+    padding-left: 41.5vw;
+}
+
+.tableMiddle {
+    padding-left: 40vw;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.tableHeaderRight {
+    padding-right: 6.5vw;
+    border-radius: 0px 14px 0px 0px;
+}
+
+.tableRight {
+    padding-right: 6.5vw;
+    font-family: 'Montserrat', sans-serif;
+} 
+
+.resultsList table tr td {
+    padding-top: 3vh;
+    padding-bottom: 3vh;
+    background-color: #00216E;
+    backdrop-filter: blur(30px);
+    opacity: 1;
 }
 
 .resultsList table tr td:first-child{
@@ -73,10 +110,10 @@ body {
 tbody tr{
     border-bottom: 1px solid rgba(65, 114, 247, 0.4);
 }
+
 tbody tr:last-child{
     border-bottom: none;
 }
-
 
 
 /* -------TABLET AND DESKTOP STYLE------- */
